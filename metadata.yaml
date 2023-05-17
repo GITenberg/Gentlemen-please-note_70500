@@ -1,0 +1,47 @@
+_repo: Gentlemen-please-note_70500
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Freas, Kelly
+    alias: Freas, Frank Kelly
+    birthdate: 1922
+    deathdate: 2005
+    gutenberg_agent_id: '8302'
+    url: http://www.gutenberg.org/2009/agents/8302
+    wikipedia: https://en.wikipedia.org/wiki/Kelly_Freas
+creator:
+  author:
+    agent_name: Garrett, Randall
+    aliases:
+    - Garrett, Gordon Randall
+    - Garret, Randall
+    birthdate: 1927
+    deathdate: 1987
+    gutenberg_agent_id: '25267'
+    url: http://www.gutenberg.org/2009/agents/25267
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Randall_Garrett
+    - https://www.gutenberg.org/ebooks/author/53466
+description: ''
+gutenberg_issued: '2023-04-08'
+identifiers:
+  gutenberg: '70500'
+language: en
+pgterms:marc905: 20221202113839garrett
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bStreet & Smith Publications, Inc., $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Newton, Isaac, Sir, 1642-1727 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Gentlemen: please note'
+url: http://www.gutenberg.org/ebooks/70500
