@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8302'
     url: http://www.gutenberg.org/2009/agents/8302
     wikipedia: https://en.wikipedia.org/wiki/Kelly_Freas
+covers:
+- cover_type: archival
+  image_path: 70500-h/images/cover.jpg
 creator:
   author:
     agent_name: Garrett, Randall
@@ -23,6 +26,8 @@ creator:
     - https://en.wikipedia.org/wiki/Randall_Garrett
     - https://www.gutenberg.org/ebooks/author/53466
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70500#Gentlemen-please-note
 gutenberg_issued: '2023-04-08'
 identifiers:
   gutenberg: '70500'
